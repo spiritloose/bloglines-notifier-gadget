@@ -1,0 +1,7 @@
+<messagebundle>
+  <msg name="description">Display number of unread messages of Bloglines</msg>
+  <msg name="user">User email</msg>
+  <msg name="loading">loading...</msg>
+  <msg name="noitems">No New Items</msg>
+  <msg name="newitems">New Items</msg>
+</messagebundle>
