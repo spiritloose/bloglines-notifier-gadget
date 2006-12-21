@@ -32,6 +32,8 @@
               var message__MODULE_ID__ = '<img src="http://www.bloglines.com/favicon.ico" style="vertical-align: middle;" />&nbsp;';
               if (count__MODULE_ID__ == 0) {
                 message__MODULE_ID__ += "__MSG_noitems__";
+              } else if (count__MODULE_ID__ == 0) {
+                message__MODULE_ID__ += "__MSG_invalid_user__";
               } else {
                 message__MODULE_ID__ += '<a href="http://www.bloglines.com/myblogs" target="_blank">'+count__MODULE_ID__+'&nbsp;__MSG_newitems__</a>';
               }
